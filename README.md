@@ -21,10 +21,12 @@ Final-year student at the Faculty of Sciences of Sfax (Tunisia), building with o
 
 ## Featured projects
 
+**Latest work:** [eya-romdhani.vercel.app](https://eya-romdhani.vercel.app/), a portfolio website I designed and built with React.
+
 | Project | What it is | Stack |
 |---|---|---|
 | [**chess-engine**](https://github.com/chahinsellami/chess-engine) | Playable browser chess app with legal-move validation, undo, engine replies and ML dataset-processing pipelines | `Python` `PyTorch` `python-chess` |
-| [**eya-romdhani-website**](https://github.com/chahinsellami/eya-romdhani-website) | Portfolio site for a model: WebGL hero, filterable gallery with accessible lightbox, WCAG AA contrast, validated contact form | `Next.js` `React Three Fiber` `Tailwind CSS` |
+| [**eya-romdhani-website**](https://github.com/chahinsellami/eya-romdhani-website) · [Live site](https://eya-romdhani.vercel.app/) | Portfolio site for a model: WebGL hero, filterable gallery with accessible lightbox, WCAG AA contrast, validated contact form | `Next.js` `React Three Fiber` `Tailwind CSS` |
 | [**chatapp**](https://github.com/chahinsellami/chatapp) · [**webchat-backend**](https://github.com/chahinsellami/webchat-backend) | Real-time messaging with online presence, typing indicators and voice/video calling | `Next.js` `TypeScript` `Node.js` `Socket.IO` `PostgreSQL` `Docker` |
 | [**Nova**](https://github.com/chahinsellami/Nova) | E-commerce front end with 3D | `TypeScript` `Three.js` |
 
